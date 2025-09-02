@@ -12,6 +12,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 # Desafio de projeto - Criando máquinas Virtuais na Azure
 - Foi abordado o tema de SLA e explicado o tempo de inatividade permitido para cada tipo de SLA. 
+
 | SLA     | Tempo de inatividade por semana | Tempo de inatividade por mês | Tempo de inatividade por ano |
 |---------|---------------------------------|------------------------------|------------------------------|
 | 99%     | 1,68 hora                       | 7,2 horas                    | 3,65 dias                    |
