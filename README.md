@@ -27,3 +27,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 - Foram abordadas opções de redundância para contas de armazenamento como LRS(armazenamento com redundância local), GRS(armazenamento com redundância geográfica), ZRS(armazenamento com redundância de zona), GZRS(armazenamento com redundância de zona geográfica).
 E cada uma dessas opções influência o SLA de disponibilidade da aplicação e no preço.
+
+# Desafio de projeto - Configurando uma instância de Banco de Dados na Azure
+- Foi abordado o processo de criação de um banco de dados no Azure.
+	- O exemplo utilizado foi um banco SQL Server.
+ 	- No processo de criação é selecionado um servidor para alocar o banco de dados, devem ser preenchidos como Nome do banco e Servidor onde será alocado.
+  	- Para criar novos bancos é necessario preencher Endereço do Banco, Região e Local de armazenamento do Backup com as opções de Local, Zona e Geografica, e cada uma delas interfere na SLA.
+  	- Após a criação do banco o Azure mostra a previsão de custos mensais do banco de dados.
